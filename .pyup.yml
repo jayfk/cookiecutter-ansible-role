@@ -2,7 +2,7 @@
 
 # Pyup configuration
 
-#branch: 'develop'
-#requirements:
-#  - 'requirements.txt'
-#  - 'ansible-role-{{ cookiecutter.ansible_role_name }}/requirements.txt'
+branch: 'develop'
+requirements:
+  - 'requirements.txt'
+  - 'ansible-role-{{ cookiecutter.ansible_role_name }}/requirements.txt'
